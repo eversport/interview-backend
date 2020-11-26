@@ -1,0 +1,23 @@
+{
+  "name": "eversports-interview-backend",
+  "version": "1.0.0",
+  "description": "used for interviews for backend positions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eversport/interview-backend.git"
+  },
+  "author": "stefan.fuchs@eversports.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eversport/interview-backend/issues"
+  },
+  "homepage": "https://github.com/eversport/interview-backend#readme",
+  "dependencies": {
+    "knex": "^0.21.12",
+    "moment": "^2.29.1"
+  }
+}

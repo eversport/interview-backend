@@ -1,0 +1,4 @@
+*.solution.js
+SCORECARD.MD
+*.solution.ts
+node_modules
